@@ -42,7 +42,7 @@ Migración cloud y gestión de identidades.
 
 ## 📍 Enfoque actual
 
-- Refactorización y blindaje de microservicios transaccionales y módulos de pago legados
+- Refactorización y blindaje de microservicios transaccionales
 - Especialización en ciberseguridad y competencias CTF
 
 <br>
