@@ -85,7 +85,7 @@
 <td align="center" width="50%">
 <img width="40" src="https://img.icons8.com/fluency/96/maintenance.png"/>
 <br><b>Blindaje de microservicios</b>
-<br><sub>Refactorización de módulos de pago legados</sub>
+<br><sub>Refactorización de módulos</sub>
 </td>
 <td align="center" width="50%">
 <img width="40" src="https://img.icons8.com/fluency/96/flag.png"/>
