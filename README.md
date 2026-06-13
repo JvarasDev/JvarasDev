@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=280&section=header&text=Juan%20Manuel%20Varas&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Ingeniería%20Informática%20·%20Ciberseguridad%20Ofensiva%20%26%20Defensiva&descAlignY=58&descSize=16&descColor=a8b2d8" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=280&section=header&text=Juan%20Manuel%20Varas&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Ingenieria%20Informatica%20%7C%20Ciberseguridad&descAlignY=58&descSize=16&descColor=a8b2d8" width="100%"/>
 <br>
 
 <a href="mailto:juanmanuelvarascastillo@protonmail.com">
